@@ -27,12 +27,14 @@ TODO: add a description
 ## Languages and Technologies
 
 <div>
-  <img
-    src="img/rust.svg"
-    title="Rust"
-    width="40"
-    height="40"
-  />&nbsp;
+  <a href="https://www.rust-lang.org/">
+    <img
+        src="img/rust.svg"
+        title="Rust"
+        width="40"
+        height="40"
+    />
+  </a>&nbsp;
   <img
     src="img/bash.svg"
     title="Bash"
