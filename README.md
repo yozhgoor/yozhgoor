@@ -8,13 +8,19 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://twitter.com/yozhgoor">
+  <a
+    href="https://twitter.com/yozhgoor"
+    style="text-decoration: none;"
+  >
     <img
       src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"
       alt="Twitter Badge"
     />
   </a>
-  <a href="https://www.linkedin.com/in/yohan-boogaert-1a71a7230">
+  <a
+    href="https://www.linkedin.com/in/yohan-boogaert-1a71a7230"
+    style="text-decoration: none;"
+  >
     <img
       src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="Linkedin Badge"
@@ -27,7 +33,10 @@ TODO: add a description
 ## Languages and Technologies
 
 <div>
-  <a href="https://www.rust-lang.org/">
+  <a
+    href="https://www.rust-lang.org/"
+    style="text-decoration: none;"
+  >
     <img
         src="img/rust.svg"
         title="Rust"
