@@ -1,9 +1,11 @@
 <h1 align="center">Yozhgoor</h1>
-
-<img
-  src="logo.png"
-  alt="yozhgoor's logo"
-/>
+  
+<div id="logo" align="center">
+  <img
+    src="logo.png"
+    alt="yozhgoor's logo"
+  />
+</div>
 
 <div id="badges" align="center">
   <a href="https://twitter.com/yozhgoor">
@@ -20,7 +22,7 @@
   </a>
 </div>
 
-## About me
+TODO: add a description
 
 ## Languages and Technologies
 
@@ -52,6 +54,12 @@
   <img
     src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg"
     title="Raspberry Pi"
+    width="40"
+    height="40"
+  />&nbsp;
+  <img
+    src="https://webassembly.org/css/webassembly.svg"
+    title="WebAssembly"
     width="40"
     height="40"
   />&nbsp;
