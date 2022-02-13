@@ -1,8 +1,8 @@
 <h1 align="center">Yozhgoor</h1>
-  
+
 <div id="logo" align="center">
   <img
-    src="logo.png"
+    src="img/logo.png"
     alt="yozhgoor's logo"
   />
 </div>
@@ -28,38 +28,44 @@ TODO: add a description
 
 <div>
   <img
-    src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg"
+    src="img/rust.svg"
     title="Rust"
     width="40"
     height="40"
   />&nbsp;
   <img
-    src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"
+    src="img/bash.svg"
     title="Bash"
     width="40"
     height="40"
   />&nbsp;
   <img
-    src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg"
+    src="img/git.svg"
     title="Git"
     width="40"
     height="40"
   />&nbsp;
   <img
-    src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"
+    src="img/github.svg"
     title="GitHub"
     width="40"
     height="40"
   />&nbsp;
   <img
-    src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg"
+    src="img/raspberry-pi.svg"
     title="Raspberry Pi"
     width="40"
     height="40"
   />&nbsp;
   <img
-    src="https://webassembly.org/css/webassembly.svg"
+    src="img/web-assembly.svg"
     title="WebAssembly"
+    width="40"
+    height="40"
+  />&nbsp;
+  <img
+    src="img/arch-linux.svg"
+    title="Arch Linux"
     width="40"
     height="40"
   />&nbsp;
@@ -67,6 +73,4 @@ TODO: add a description
 
 ## Activity
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yozhgoor&layout=compact&theme=vision-friendly-dark&exclude_repo=yew,yewprint,yewprint-playground)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yozhgoor&theme=gruvbox&date_format=j%20M%5B%20Y%5D&ring=19780C)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yozhgoor&)
