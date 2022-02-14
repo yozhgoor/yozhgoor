@@ -33,7 +33,7 @@ and technology. I've been running Linux for 6 years through many distributions
 (Ubuntu, Tails, Pop!\_OS, Arch,...).
 
 I had the chance to get insight knowledge on Rust in 2020 from
-[a friend](https://github.com/cecton) that became my mentor and gave my the
+[a friend](https://github.com/cecton) that became my mentor and gave me the
 opportunity to learn Rust at [RustMinded](https://github.com/rustminded).
 
 ## Languages and Technologies
