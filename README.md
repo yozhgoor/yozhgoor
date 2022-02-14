@@ -11,13 +11,19 @@
   <a href="https://twitter.com/yozhgoor">
     <img
       src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"
-      alt="Twitter Badge"
+      alt="Twitter badge"
+    />
+  </a>
+  <a href="https://yozhgoor.github.io">
+    <img
+      src="https://shields.io/badge/docs.rs-blue?style=for-the-badge&logo=ReadtheDocs&logoColor=white"
+      alt="yozhgoor's docs.rs badge"
     />
   </a>
   <a href="https://www.linkedin.com/in/yohan-boogaert-1a71a7230">
     <img
       src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="Linkedin Badge"
+      alt="Linkedin badge"
     />
   </a>
 </div>
@@ -35,6 +41,7 @@ my mentor and gave my the opportunity to learn Rust at [RustMinded]().
     <img
         src="img/rust.svg"
         title="Rust"
+        alt="Rust Programming Language icon"
         width="40"
         height="40"
     />
@@ -43,6 +50,7 @@ my mentor and gave my the opportunity to learn Rust at [RustMinded]().
     <img
       src="img/web-assembly.svg"
       title="WebAssembly"
+      alt="WebAssembly icon"
       width="40"
       height="40"
     />
@@ -51,6 +59,7 @@ my mentor and gave my the opportunity to learn Rust at [RustMinded]().
     <img
       src="img/bash.svg"
       title="Bash"
+      alt="Bash icon"
       width="40"
       height="40"
     />
@@ -59,6 +68,7 @@ my mentor and gave my the opportunity to learn Rust at [RustMinded]().
     <img
       src="img/git.svg"
       title="Git"
+      alt="Git icon"
       width="40"
       height="40"
     />&nbsp;
@@ -66,6 +76,7 @@ my mentor and gave my the opportunity to learn Rust at [RustMinded]().
     <img
       src="img/github.svg"
       title="GitHub"
+      alt="GitHub icon"
       width="40"
       height="40"
     />
@@ -74,6 +85,7 @@ my mentor and gave my the opportunity to learn Rust at [RustMinded]().
     <img
       src="img/neovim.svg"
       title="Neovim"
+      alt="Neovim icon"
       width="40"
       height="40"
     />
@@ -82,6 +94,7 @@ my mentor and gave my the opportunity to learn Rust at [RustMinded]().
     <img
       src="img/vscode.svg"
       title="VS Code"
+      alt="VS Code icon"
       width="40"
       height="40"
     />
@@ -90,6 +103,7 @@ my mentor and gave my the opportunity to learn Rust at [RustMinded]().
     <img
       src="img/raspberry-pi.svg"
       title="Raspberry Pi"
+      alt="Raspberry Pi icon"
       width="40"
       height="40"
     />
@@ -99,15 +113,12 @@ my mentor and gave my the opportunity to learn Rust at [RustMinded]().
     <img
       src="img/arch-linux.svg"
       title="Arch Linux"
+      alt="Arch Linux icon"
       width="40"
       height="40"
     />
   </a>&nbsp;
 </div>
-
-## Skills
-
-
 
 ## Activity
 
