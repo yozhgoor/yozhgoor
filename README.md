@@ -28,11 +28,13 @@
   </a>
 </div>
 
-Former emergency response driver who always had a big interest in programming and technology.
-I've been running Linux for 6 years through many distributions (Ubuntu, Tails, Pop!\_OS, Arch,...).
+Former emergency response driver who always had a big interest in programming
+and technology. I've been running Linux for 6 years through many distributions
+(Ubuntu, Tails, Pop!\_OS, Arch,...).
 
-I had the chance to get insight knowledge on Rust in 2020 from [a friend](https://github.com/cecton) that became
-my mentor and gave my the opportunity to learn Rust at [RustMinded]().
+I had the chance to get insight knowledge on Rust in 2020 from
+[a friend](https://github.com/cecton) that became my mentor and gave my the
+opportunity to learn Rust at [RustMinded](https://github.com/rustminded).
 
 ## Languages and Technologies
 
@@ -136,48 +138,68 @@ my mentor and gave my the opportunity to learn Rust at [RustMinded]().
 ### Personal Projects
 
 <div>
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=yozhgoor&repo=cargo-temp&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
-  >
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=yozhgoor&repo=CreateProcessW&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
-  >
+  <a href="https://github.com/yozhgoor/cargo-temp">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=yozhgoor&repo=cargo-temp&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
+    >
+  </a>
+  <a href="https://github.com/yozhgoor/createprocessw">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=yozhgoor&repo=CreateProcessW&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
+    >
+  </a>
 </div>
 
 <div>
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=yozhgoor&repo=yewprint-playground&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=yozhgoor&repo=tui-do&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
-  />
+  <a href="https://github.com/Yozhgoor/yewprint-playground">
+   <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=yozhgoor&repo=yewprint-playground&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
+    />
+  </a>
+  <a href="https://github.com/yozhgoor/tui-do">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=yozhgoor&repo=tui-do&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
+    />
+  </a>
 </div>
 
 ### OSS Contributions
 
 <div>
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=rustminded&repo=xtask-wasm&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=rustminded&repo=xtask-watch&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
-  />
+  <a href="https://github.com/rustminded/xtask-wasm">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=rustminded&repo=xtask-wasm&show_owner=true&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
+    />
+  </a>
+  <a href="https://github.com/rustminded/xtask-watch">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=rustminded&repo=xtask-watch&show_owner=true&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
+    />
+  </a>
 </div>
 
 <div>
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=yewprint&repo=yewprint&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=iomentum&repo=cargo-breaking&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
-  />
+  <a href="https://github.com/yewprint/yewprint">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=yewprint&repo=yewprint&show_owner=true&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
+    />
+  </a>
+  <a href="https://github.com/iomentum/cargo-breaking">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=iomentum&repo=cargo-breaking&show_owner=true&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
+    />
+  </a>
 </div>
 
 <div>
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=IMI-eRnD-Be&repo=wasm-run&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=BigBoySystems&repo=third-i-frontend&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
-  />
+  <a href="https://github.com/IMI-eRnD-Be/wasm-run">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=IMI-eRnD-Be&repo=wasm-run&show_owner=true&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
+    />
+  </a>
+  <a href="https://github.com/BigBoySystems/third-i-frontend">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=BigBoySystems&repo=third-i-frontend&show_owner=true&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
+    />
+  </a>
 </div>
