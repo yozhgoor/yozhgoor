@@ -143,18 +143,18 @@ opportunity to learn Rust at [RustMinded](https://github.com/rustminded).
       src="https://github-readme-stats.vercel.app/api/pin/?username=yozhgoor&repo=cargo-temp&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
     >
   </a>
-  <a href="https://github.com/yozhgoor/createprocessw">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=yozhgoor&repo=CreateProcessW&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
-    >
-  </a>
-</div>
-
-<div>
   <a href="https://github.com/Yozhgoor/yewprint-playground">
    <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=yozhgoor&repo=yewprint-playground&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
     />
+  </a>
+</div>
+
+<div>
+  <a href="https://github.com/yozhgoor/createprocessw">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=yozhgoor&repo=CreateProcessW&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
+    >
   </a>
   <a href="https://github.com/yozhgoor/tui-do">
     <img
