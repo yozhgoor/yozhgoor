@@ -127,7 +127,7 @@ opportunity to learn Rust at [RustMinded](https://github.com/rustminded).
 <div>
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yozhgoor&hide=css,html&theme=codeSTACKr&title_color=57a5fd"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yozhgoor&theme=codeSTACKr&title_color=57a5fd"
   >
   <img
     align="center"
