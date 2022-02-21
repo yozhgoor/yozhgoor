@@ -1,12 +1,5 @@
 <h1 align="center">Yozhgoor</h1>
 
-<div align="center">
-  <img
-    src="img/logo.png"
-    alt="yozhgoor's logo"
-  />
-</div>
-
 <div id="badges" align="center">
   <a href="https://twitter.com/yozhgoor">
     <img
@@ -127,7 +120,7 @@ opportunity to learn Rust at [RustMinded](https://github.com/rustminded).
 <div>
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yozhgoor&theme=codeSTACKr&title_color=57a5fd"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yozhgoor&theme=codeSTACKr&title_color=57a5fd&hide=css,html"
   >
   <img
     align="center"
