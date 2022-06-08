@@ -185,6 +185,19 @@ opportunity to learn Rust at [RustMinded](https://github.com/rustminded).
 </div>
 
 <div>
+  <a href="https://github.com/chronotope/chrono">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=chronotope&repo=chrono&show_owner=true&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
+    />
+  </a>
+  <a href="https://github.com/cargo-generate/cargo-generate">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=cargo-generate&repo=cargo-generate&show_owner=true&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
+    />
+  </a>
+</div>
+  
+<div>
   <a href="https://github.com/IMI-eRnD-Be/wasm-run">
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=IMI-eRnD-Be&repo=wasm-run&show_owner=true&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
