@@ -120,11 +120,11 @@ opportunity to learn Rust at [RustMinded](https://github.com/rustminded).
 <div>
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yozhgoor&theme=codeSTACKr&title_color=57a5fd&hide=css,html"
+    src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=yozhgoor&theme=codeSTACKr&title_color=57a5fd&hide=css,html"
   >
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=yozhgoor&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true&hide=issues&theme=codeSTACKr&icon_color=6a727b"
+    src="https://github-readme-stats-ruby-one.vercel.app/api?username=yozhgoor&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true&hide=issues&theme=codeSTACKr&icon_color=6a727b"
   >
 </div>
 
@@ -133,12 +133,12 @@ opportunity to learn Rust at [RustMinded](https://github.com/rustminded).
 <div>
   <a href="https://github.com/yozhgoor/cargo-temp">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=yozhgoor&repo=cargo-temp&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
+      src="https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=yozhgoor&repo=cargo-temp&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
     >
   </a>
   <a href="https://github.com/Yozhgoor/yewprint-playground">
    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=yozhgoor&repo=yewprint-playground&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
+      src="https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=yozhgoor&repo=yewprint-playground&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
     />
   </a>
 </div>
@@ -146,12 +146,12 @@ opportunity to learn Rust at [RustMinded](https://github.com/rustminded).
 <div>
   <a href="https://github.com/yozhgoor/createprocessw">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=yozhgoor&repo=CreateProcessW&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
+      src="https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=yozhgoor&repo=CreateProcessW&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
     >
   </a>
   <a href="https://github.com/yozhgoor/tui-do">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=yozhgoor&repo=tui-do&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
+      src="https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=yozhgoor&repo=tui-do&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
     />
   </a>
 </div>
@@ -161,12 +161,12 @@ opportunity to learn Rust at [RustMinded](https://github.com/rustminded).
 <div>
   <a href="https://github.com/rustminded/xtask-wasm">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=rustminded&repo=xtask-wasm&show_owner=true&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
+      src="https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=rustminded&repo=xtask-wasm&show_owner=true&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
     />
   </a>
   <a href="https://github.com/rustminded/xtask-watch">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=rustminded&repo=xtask-watch&show_owner=true&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
+      src="https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=rustminded&repo=xtask-watch&show_owner=true&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
     />
   </a>
 </div>
@@ -174,12 +174,12 @@ opportunity to learn Rust at [RustMinded](https://github.com/rustminded).
 <div>
   <a href="https://github.com/yewprint/yewprint">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=yewprint&repo=yewprint&show_owner=true&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
+      src="https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=yewprint&repo=yewprint&show_owner=true&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
     />
   </a>
   <a href="https://github.com/iomentum/cargo-breaking">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=iomentum&repo=cargo-breaking&show_owner=true&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
+      src="https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=iomentum&repo=cargo-breaking&show_owner=true&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
     />
   </a>
 </div>
@@ -187,12 +187,12 @@ opportunity to learn Rust at [RustMinded](https://github.com/rustminded).
 <div>
   <a href="https://github.com/chronotope/chrono">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=chronotope&repo=chrono&show_owner=true&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
+      src="https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=chronotope&repo=chrono&show_owner=true&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
     />
   </a>
   <a href="https://github.com/cargo-generate/cargo-generate">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=cargo-generate&repo=cargo-generate&show_owner=true&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
+      src="https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=cargo-generate&repo=cargo-generate&show_owner=true&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
     />
   </a>
 </div>
@@ -200,12 +200,12 @@ opportunity to learn Rust at [RustMinded](https://github.com/rustminded).
 <div>
   <a href="https://github.com/IMI-eRnD-Be/wasm-run">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=IMI-eRnD-Be&repo=wasm-run&show_owner=true&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
+      src="https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=IMI-eRnD-Be&repo=wasm-run&show_owner=true&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
     />
   </a>
   <a href="https://github.com/BigBoySystems/third-i-frontend">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=BigBoySystems&repo=third-i-frontend&show_owner=true&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
+      src="https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=BigBoySystems&repo=third-i-frontend&show_owner=true&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
     />
   </a>
 </div>
