@@ -120,11 +120,11 @@ opportunity to learn Rust at [RustMinded](https://github.com/rustminded).
 <div>
   <img
     align="center"
-    src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=yozhgoor&theme=codeSTACKr&title_color=57a5fd&hide=css,html"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yozhgoor&theme=codeSTACKr&title_color=57a5fd&hide=css,html"
   >
   <img
     align="center"
-    src="https://github-readme-stats-ruby-one.vercel.app/api?username=yozhgoor&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true&hide=issues&theme=codeSTACKr&icon_color=6a727b"
+    src="https://github-readme-stats.vercel.app/api?username=yozhgoor&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true&hide=issues&theme=codeSTACKr&icon_color=6a727b"
   >
 </div>
 
