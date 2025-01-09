@@ -1,10 +1,10 @@
 <h1 align="center">Yozhgoor</h1>
 
 <div id="badges" align="center">
-  <a href="https://twitter.com/yozhgoor">
+  <a href="https://bsky.app/profile/yozhgoor.bsky.social">
     <img
-      src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"
-      alt="Twitter badge"
+      src="https://img.shields.io/badge/Bluesky-blue?style=for-the-badge&logo=bluesky&logoColor=white"
+      alt="Bluesky badge"
     />
   </a>
   <a href="https://yozhgoor.github.io">
