@@ -21,13 +21,13 @@
   </a>
 </div>
 
-Former emergency response driver who always had a big interest in programming
-and technology. I've been running Linux for 6 years through many distributions
-(Ubuntu, Tails, Pop!\_OS, Arch,...).
-
 I had the chance to get insight knowledge on Rust in 2020 from
 [a friend](https://github.com/cecton) that became my mentor and gave me the
 opportunity to learn Rust at [RustMinded](https://github.com/rustminded).
+
+Since then, I've contributed to the Rust and open-source ecosystem, 
+experimented with WebAssembly, built some CLIs and APIs, explored some
+systems and currently learning about networking and security.
 
 ## Languages and Technologies
 
@@ -134,13 +134,23 @@ opportunity to learn Rust at [RustMinded](https://github.com/rustminded).
   <a href="https://github.com/yozhgoor/cargo-temp">
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=yozhgoor&repo=cargo-temp&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
-    >
+    />
   </a>
   <a href="https://github.com/Yozhgoor/yewprint-playground">
    <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=yozhgoor&repo=yewprint-playground&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
     />
   </a>
+  <a href="https://github.com/yozhgoor/CreateProcessW">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=yozhgoor&repo=CreateProcessW&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
+    />
+  <a href="https://github.com/yozhgoor/cargo-flow">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=yozhgoor&repo=cargo-flow&theme=codeSTACKr&title_color=67a5fd&icon_color=6a727b"
+  />
+  </a>
+
 </div>
 
 ### OSS Contributions
@@ -171,9 +181,9 @@ opportunity to learn Rust at [RustMinded](https://github.com/rustminded).
       src="https://github-readme-stats.vercel.app/api/pin/?username=cargo-generate&repo=cargo-generate&show_owner=true&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
     />
   </a>
-  <a href="https://github.com/BigBoySystems/third-i-frontend">
+  <a href="https://github.com/GuillaumeGomez/sysinfo">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=BigBoySystems&repo=third-i-frontend&show_owner=true&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=GuillaumeGomez&repo=sysinfo&show_owner=true&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
     />
   </a>
 </div>
