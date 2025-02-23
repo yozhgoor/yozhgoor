@@ -95,11 +95,13 @@ systems and currently learning about networking and security.
 
 <div id="activity" align="center">
   <img
-    align="center"
+    width="400"
+    height="200"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=yozhgoor&theme=codeSTACKr&title_color=57a5fd&hide=css,html"
   >
   <img
-    align="center"
+    width="400"
+    height="200"
     src="https://github-readme-stats.vercel.app/api?username=yozhgoor&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true&hide=issues&theme=codeSTACKr&icon_color=6a727b"
   >
 </div>
