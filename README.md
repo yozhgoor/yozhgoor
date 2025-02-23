@@ -23,9 +23,9 @@ Since then, I've contributed to the Rust and open-source ecosystem,
 experimented with WebAssembly, built some CLIs and APIs, explored some
 systems and currently learning about networking and security.
 
-## Languages and Technologies
+<h2 align="center">Languages and Technologies</h2>
 
-<div>
+<div id="icons" align="center">
   <a href="https://www.rust-lang.org/"><img
     src="img/rust.svg"
     title="Rust"
@@ -91,9 +91,9 @@ systems and currently learning about networking and security.
   /></a>&nbsp;
 </div>
 
-## Activity
+<h2 align="center">Activity</h2>
 
-<div>
+<div id="activity" align="center">
   <img
     align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=yozhgoor&theme=codeSTACKr&title_color=57a5fd&hide=css,html"
@@ -104,9 +104,9 @@ systems and currently learning about networking and security.
   >
 </div>
 
-### Personal Projects
+<h3 align="center">Personal Projects</h3>
 
-<div>
+<div id="perso" align="center">
   <a href="https://github.com/yozhgoor/cargo-temp"><img
     src="https://github-readme-stats.vercel.app/api/pin/?username=yozhgoor&repo=cargo-temp&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
   /></a>
@@ -121,9 +121,9 @@ systems and currently learning about networking and security.
   /></a>
 </div>
 
-### OSS Contributions
+<h3 align="center">OSS Contributions</h3>
 
-<div>
+<div id="perso" align="center">
   <a href="https://github.com/rustminded/xtask-wasm"><img
     src="https://github-readme-stats.vercel.app/api/pin/?username=rustminded&repo=xtask-wasm&show_owner=true&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
   /></a>
