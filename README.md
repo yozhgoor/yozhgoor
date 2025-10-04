@@ -1,10 +1,6 @@
 <h1 align="center">Yozhgoor</h1>
 
 <div id="badges" align="center">
-  <a href="https://bsky.app/profile/yozhgoor.bsky.social"><img
-    src="https://img.shields.io/badge/Bluesky-blue?style=for-the-badge&logo=bluesky&logoColor=white"
-    alt="Bluesky badge"
-  /></a>
   <a href="https://yozhgoor.github.io"><img
     src="https://shields.io/badge/docs.rs-blue?style=for-the-badge&logo=ReadtheDocs&logoColor=white"
     alt="yozhgoor's docs.rs badge"
