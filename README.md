@@ -128,9 +128,6 @@ systems and currently learning about networking and security.
   <a href="https://github.com/rustminded/xtask-watch"><img
     src="https://github-readme-stats.vercel.app/api/pin/?username=rustminded&repo=xtask-watch&show_owner=true&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
   /></a>
-  <a href="https://github.com/yewprint/yewprint"><img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=yewprint&repo=yewprint&show_owner=true&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
-  /></a>
   <a href="https://github.com/chronotope/chrono"><img
     src="https://github-readme-stats.vercel.app/api/pin/?username=chronotope&repo=chrono&show_owner=true&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
   /></a>
