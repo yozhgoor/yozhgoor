@@ -17,7 +17,7 @@ opportunity to learn Rust at [RustMinded](https://github.com/rustminded).
 
 Since then, I've contributed to the Rust and open-source ecosystem, 
 experimented with WebAssembly, built some CLIs and APIs, explored some
-systems and currently learning about networking and security.
+systems and learned about networking and security.
 
 <h2 align="center">Languages and Technologies</h2>
 
@@ -108,14 +108,14 @@ systems and currently learning about networking and security.
   <a href="https://github.com/yozhgoor/cargo-temp"><img
     src="https://github-readme-stats.vercel.app/api/pin/?username=yozhgoor&repo=cargo-temp&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
   /></a>
-  <a href="https://github.com/Yozhgoor/yewprint-playground"><img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=yozhgoor&repo=yewprint-playground&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
+  <a href="https://github.com/yozhgoor/cargo-flow"><img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=yozhgoor&repo=cargo-flow&theme=codeSTACKr&title_color=67a5fd&icon_color=6a727b"
+  /></a>
+  <a href="https://github.com/yozhgoor/autotrait2"><img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=yozhgoor&repo=autotrait2&theme=codeSTACKr&title_color=67a5fd&icon_color=6a727b"
   /></a>
   <a href="https://github.com/yozhgoor/CreateProcessW"><img
     src="https://github-readme-stats.vercel.app/api/pin/?username=yozhgoor&repo=CreateProcessW&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
-  /></a>
-  <a href="https://github.com/yozhgoor/cargo-flow"><img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=yozhgoor&repo=cargo-flow&theme=codeSTACKr&title_color=67a5fd&icon_color=6a727b"
   /></a>
 </div>
 
@@ -136,5 +136,17 @@ systems and currently learning about networking and security.
   /></a>
   <a href="https://github.com/GuillaumeGomez/sysinfo"><img
     src="https://github-readme-stats.vercel.app/api/pin/?username=GuillaumeGomez&repo=sysinfo&show_owner=true&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
+  /></a>
+    <a href="https://github.com/yewstack/implicit-clone"><img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=yewstack&repo=implicit-clone&show_owner=true&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
+  /></a>
+  <a href="https://github.com/georust/topojson"><img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=georust&repo=topojson&show_owner=true&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
+  /></a>
+  <a href="https://github.com/rust-disk-partition-management/mbrman"><img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=rust-disk-partition-management&repo=mbrman&show_owner=true&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
+  /></a>
+  <a href="https://github.com/rust-disk-partition-management/gptman"><img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=rust-disk-partition-management&repo=gptman&show_owner=true&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
   /></a>
 </div>
