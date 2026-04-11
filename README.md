@@ -15,7 +15,7 @@ I had the chance to get insight knowledge on Rust in 2020 from
 [a friend](https://github.com/cecton) that became my mentor and gave me the
 opportunity to learn Rust at [RustMinded](https://github.com/rustminded).
 
-Since then, I've contributed to the Rust and open-source ecosystem, 
+Since then, I've contributed to the Rust and open-source ecosystem,
 experimented with WebAssembly, built some CLIs and APIs, explored some
 systems and learned about networking and security.
 
@@ -90,63 +90,31 @@ systems and learned about networking and security.
 <h2 align="center">Activity</h2>
 
 <div id="activity" align="center">
-  <img
-    width="400"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yozhgoor&theme=codeSTACKr&title_color=57a5fd&hide=css,html"
-  >
-  <img
-    width="400"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api?username=yozhgoor&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true&hide=issues&theme=codeSTACKr&icon_color=6a727b"
-  >
+    <img src="cards/user.svg">
+    <img src="cards/languages.svg">
 </div>
 
 <h3 align="center">Personal Projects</h3>
 
 <div id="perso" align="center">
-  <a href="https://github.com/yozhgoor/cargo-temp"><img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=yozhgoor&repo=cargo-temp&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
-  /></a>
-  <a href="https://github.com/yozhgoor/cargo-flow"><img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=yozhgoor&repo=cargo-flow&theme=codeSTACKr&title_color=67a5fd&icon_color=6a727b"
-  /></a>
-  <a href="https://github.com/yozhgoor/autotrait2"><img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=yozhgoor&repo=autotrait2&theme=codeSTACKr&title_color=67a5fd&icon_color=6a727b"
-  /></a>
-  <a href="https://github.com/yozhgoor/CreateProcessW"><img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=yozhgoor&repo=CreateProcessW&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
-  /></a>
+    <img src="cards/cargo-temp.svg">
+    <img src="cards/cargo-flow.svg">
+    <img src="cards/readme-svg-stats.svg">
+    <img src="cards/xtask-no-warnings.svg">
+    <img src="cards/CreateProcessW.svg">
+    <img src="cards/autotrait2.svg">
+    <img src="cards/ratatui-auto-grid.svg">
 </div>
 
 <h3 align="center">OSS Contributions</h3>
-
 <div id="perso" align="center">
-  <a href="https://github.com/rustminded/xtask-wasm"><img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=rustminded&repo=xtask-wasm&show_owner=true&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
-  /></a>
-  <a href="https://github.com/rustminded/xtask-watch"><img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=rustminded&repo=xtask-watch&show_owner=true&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
-  /></a>
-  <a href="https://github.com/chronotope/chrono"><img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=chronotope&repo=chrono&show_owner=true&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
-  /></a>
-  <a href="https://github.com/cargo-generate/cargo-generate"><img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=cargo-generate&repo=cargo-generate&show_owner=true&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
-  /></a>
-  <a href="https://github.com/GuillaumeGomez/sysinfo"><img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=GuillaumeGomez&repo=sysinfo&show_owner=true&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
-  /></a>
-    <a href="https://github.com/yewstack/implicit-clone"><img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=yewstack&repo=implicit-clone&show_owner=true&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
-  /></a>
-  <a href="https://github.com/georust/topojson"><img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=georust&repo=topojson&show_owner=true&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
-  /></a>
-  <a href="https://github.com/rust-disk-partition-management/mbrman"><img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=rust-disk-partition-management&repo=mbrman&show_owner=true&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
-  /></a>
-  <a href="https://github.com/rust-disk-partition-management/gptman"><img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=rust-disk-partition-management&repo=gptman&show_owner=true&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
-  /></a>
+    <img src="cards/xtask-wasm.svg">
+    <img src="cards/xtask-watch.svg">
+    <img src="cards/sysinfo.svg">
+    <img src="cards/chrono.svg">
+    <img src="cards/cargo-generate.svg">
+    <img src="cards/gptman.svg">
+    <img src="cards/mbrman.svg">
+    <img src="cards/implicit-clone.svg">
+    <img src="cards/topojson.svg">
 </div>
