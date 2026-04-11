@@ -90,14 +90,31 @@ systems and learned about networking and security.
 <h2 align="center">Activity</h2>
 
 <div id="activity" align="center">
+    <img src="cards/user.svg">
+    <img src="cards/languages.svg">
 </div>
 
 <h3 align="center">Personal Projects</h3>
 
 <div id="perso" align="center">
+    <img src="cards/cargo-temp.svg">
+    <img src="cards/cargo-flow.svg">
+    <img src="cards/readme-svg-stats.svg">
+    <img src="cards/xtask-no-warnings.svg">
+    <img src="cards/CreateProcessW.svg">
+    <img src="cards/autotrait2.svg">
+    <img src="cards/ratatui-auto-grid.svg">
 </div>
 
 <h3 align="center">OSS Contributions</h3>
-
 <div id="perso" align="center">
+    <img src="cards/xtask-wasm.svg">
+    <img src="cards/xtask-watch.svg">
+    <img src="cards/sysinfo.svg">
+    <img src="cards/chrono.svg">
+    <img src="cards/cargo-generate.svg">
+    <img src="cards/gptman.svg">
+    <img src="cards/mbrman.svg">
+    <img src="cards/implicit-clone.svg">
+    <img src="cards/topojson.svg">
 </div>
