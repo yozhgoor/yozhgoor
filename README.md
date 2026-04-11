@@ -90,63 +90,16 @@ systems and learned about networking and security.
 <h2 align="center">Activity</h2>
 
 <div id="activity" align="center">
-  <img
-    width="400"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yozhgoor&theme=codeSTACKr&title_color=57a5fd&hide=css,html"
-  >
-  <img
-    width="400"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api?username=yozhgoor&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true&hide=issues&theme=codeSTACKr&icon_color=6a727b"
-  >
+  <img src="cards/user.svg">
+  <img src="cards/languages.svg">
 </div>
 
 <h3 align="center">Personal Projects</h3>
 
 <div id="perso" align="center">
-  <a href="https://github.com/yozhgoor/cargo-temp"><img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=yozhgoor&repo=cargo-temp&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
-  /></a>
-  <a href="https://github.com/yozhgoor/cargo-flow"><img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=yozhgoor&repo=cargo-flow&theme=codeSTACKr&title_color=67a5fd&icon_color=6a727b"
-  /></a>
-  <a href="https://github.com/yozhgoor/autotrait2"><img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=yozhgoor&repo=autotrait2&theme=codeSTACKr&title_color=67a5fd&icon_color=6a727b"
-  /></a>
-  <a href="https://github.com/yozhgoor/CreateProcessW"><img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=yozhgoor&repo=CreateProcessW&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
-  /></a>
 </div>
 
 <h3 align="center">OSS Contributions</h3>
 
 <div id="perso" align="center">
-  <a href="https://github.com/rustminded/xtask-wasm"><img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=rustminded&repo=xtask-wasm&show_owner=true&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
-  /></a>
-  <a href="https://github.com/rustminded/xtask-watch"><img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=rustminded&repo=xtask-watch&show_owner=true&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
-  /></a>
-  <a href="https://github.com/chronotope/chrono"><img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=chronotope&repo=chrono&show_owner=true&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
-  /></a>
-  <a href="https://github.com/cargo-generate/cargo-generate"><img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=cargo-generate&repo=cargo-generate&show_owner=true&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
-  /></a>
-  <a href="https://github.com/GuillaumeGomez/sysinfo"><img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=GuillaumeGomez&repo=sysinfo&show_owner=true&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
-  /></a>
-    <a href="https://github.com/yewstack/implicit-clone"><img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=yewstack&repo=implicit-clone&show_owner=true&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
-  /></a>
-  <a href="https://github.com/georust/topojson"><img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=georust&repo=topojson&show_owner=true&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
-  /></a>
-  <a href="https://github.com/rust-disk-partition-management/mbrman"><img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=rust-disk-partition-management&repo=mbrman&show_owner=true&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
-  /></a>
-  <a href="https://github.com/rust-disk-partition-management/gptman"><img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=rust-disk-partition-management&repo=gptman&show_owner=true&theme=codeSTACKr&title_color=57a5fd&icon_color=6a727b"
-  /></a>
 </div>
