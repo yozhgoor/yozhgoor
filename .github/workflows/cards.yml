@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout source
@@ -24,7 +24,7 @@ jobs:
 
       - name: Generate cards
         env:
-          GITHUB_API_TOKEN: ${{ secrets.GITHUB_API_TOKEN }}
+          API_TOKEN: ${{ secrets.API_TOKEN }}
         run: readme-svg-stats
 
       - name: Commit and push if changed
