@@ -113,9 +113,9 @@ systems and learned about networking and security.
     <img src="cards/rustminded_xtask-watch.svg">
     <img src="cards/GuillaumeGomez_sysinfo.svg">
     <img src="cards/chronotope_chrono.svg">
-    <img src="cards/cargo_generate_cargo-generate.svg">
+    <img src="cards/cargo-generate_cargo-generate.svg">
     <img src="cards/rust-disk-partition-management_gptman.svg">
     <img src="cards/rust-disk-partition-management_mbrman.svg">
     <img src="cards/yewstack_implicit-clone.svg">
-    <img src="cards/geo_rust/topojson.svg">
+    <img src="cards/geo_rust_topojson.svg">
 </div>
