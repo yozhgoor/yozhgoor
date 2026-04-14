@@ -1,0 +1,14 @@
+[languages]
+exclude = ["HTML", "CSS", "Makefile"]
+
+[repos]
+exclude = [
+    "crux-example",
+    "dav",
+    "dot-manager",
+    "dotfiles",
+    "hello-bevy",
+    "todo",
+    "yozhgoor",
+    "yozhgoor.github.io"
+]
