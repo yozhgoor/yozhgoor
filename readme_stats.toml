@@ -1,5 +1,10 @@
 [languages]
-exclude = ["HTML", "CSS", "Makefile"]
+exclude = [
+    "HTML",
+    "CSS",
+    "Makefile",
+    "Lua",
+]
 
 [repos]
 exclude = [
