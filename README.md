@@ -90,31 +90,66 @@ systems and learned about networking and security.
 <h2 align="center">Activity</h2>
 
 <div id="activity" align="center">
-    <img src="cards/user.svg">
-    <img src="cards/languages.svg">
+    <img src="cards/user.svg" alt="yozhgoor's user card">
+    <img src="cards/languages.svg" alt="yozhgoor's languages card">
 </div>
 
 <h3 align="center">Personal Projects</h3>
 
 <div id="perso" align="center">
-    <img src="cards/cargo-temp.svg">
-    <img src="cards/cargo-flow.svg">
-    <img src="cards/readme-svg-stats.svg">
-    <img src="cards/xtask-no-warnings.svg">
-    <img src="cards/CreateProcessW.svg">
-    <img src="cards/autotrait2.svg">
-    <img src="cards/ratatui-auto-grid.svg">
+    <a href="https://github.com/yozhgoor/cargo-temp">
+        <img src="cards/cargo-temp.svg" alt="cargo-temp's card">
+    </a>
+    <a href="https://github.com/yozhgoor/cargo-flow">
+        <img src="cards/cargo-flow.svg" alt="cargo-flow's card">
+    </a>
+    <a href="https://github.com/yozhgoor/readme-svg-stats">
+        <img src="cards/readme-svg-stats.svg" alt="readme-svg-stats's card">
+    </a>
+    <a href="https://github.com/yozhgoor/xtask-no-warnings">
+        <img src="cards/xtask-no-warnings.svg" alt="xtask-no-warnings' card">
+    </a>
+    <a href="https://github.com/yozhgoor/CreateProcessW">
+        <img src="cards/CreateProcessW.svg" alt="CreateProcessW's card">
+    </a>
+    <a href="https://github.com/yozhgoor/autotrait2">
+        <img src="cards/autotrait2.svg" alt="autotrait2's card">
+    </a>
+    <a href="https://github.com/yozhgoor/ratatui-auto-grid">
+        <img src="cards/ratatui-auto-grid.svg" alt="ratatui-auto-grid's card">
+    </a>
+    <a href="https://github.com/yozhgoor/nixos-config">
+        <img src="cards/nixos-config.svg" alt="nixos-config's card">
+    </a>
 </div>
 
 <h3 align="center">OSS Contributions</h3>
 <div id="perso" align="center">
-    <img src="cards/xtask-wasm.svg">
-    <img src="cards/xtask-watch.svg">
-    <img src="cards/sysinfo.svg">
-    <img src="cards/chrono.svg">
-    <img src="cards/cargo-generate.svg">
-    <img src="cards/gptman.svg">
-    <img src="cards/mbrman.svg">
-    <img src="cards/implicit-clone.svg">
-    <img src="cards/topojson.svg">
+    <a href="https://github.com/rustminded/xtask-wasm">
+        <img src="cards/rustminded_xtask-wasm.svg" alt="xtask-wasm's card">
+    </a>
+    <a href="https://github.com/rustminded/xtask-watch">
+        <img src="cards/rustminded_xtask-watch.svg" alt="xtask-watch's card">
+    </a>
+    <a href="https://github.com/GuillaumeGomez/sysinfo">
+        <img src="cards/GuillaumeGomez_sysinfo.svg" alt = "sysinfo's card">
+    </a>
+    <a href="https://github.com/chronotope/chrono">
+        <img src="cards/chronotope_chrono.svg" alt="chrono's card">
+    </a>
+    <a href="https://github.com/cargo-generate/cargo-generate">
+        <img src="cards/cargo-generate_cargo-generate.svg" alt="cargo-generate's card">
+    </a>
+    <a href="https://github.com/rust-disk-partition-management/gptman">
+        <img src="cards/rust-disk-partition-management_gptman.svg" alt="gptman's card">
+    </a>
+    <a href="https://github.com/rust-disk-partition-management/mbrman">
+        <img src="cards/rust-disk-partition-management_mbrman.svg" alt="mbrman's card">
+    </a>
+    <a href="https://github.com/yewstack/implicit-clone">
+        <img src="cards/yewstack_implicit-clone.svg" alt="implicit-clone's card">
+    </a>
+    <a href="https://github.com/georust/topojson">
+        <img src="cards/georust_topojson.svg" alt="topojson's card">
+    </a>
 </div>

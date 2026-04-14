@@ -25,7 +25,7 @@ jobs:
       - name: Generate cards
         env:
           API_TOKEN: ${{ secrets.API_TOKEN }}
-        run: readme-svg-stats
+        run: readme-svg-stats --config readme_stats.toml
 
       - name: Commit and push if changed
         run: |
