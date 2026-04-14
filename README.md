@@ -104,17 +104,18 @@ systems and learned about networking and security.
     <img src="cards/CreateProcessW.svg">
     <img src="cards/autotrait2.svg">
     <img src="cards/ratatui-auto-grid.svg">
+    <img src="cards/nixos-config.svg">
 </div>
 
 <h3 align="center">OSS Contributions</h3>
 <div id="perso" align="center">
-    <img src="cards/xtask-wasm.svg">
-    <img src="cards/xtask-watch.svg">
-    <img src="cards/sysinfo.svg">
-    <img src="cards/chrono.svg">
-    <img src="cards/cargo-generate.svg">
-    <img src="cards/gptman.svg">
-    <img src="cards/mbrman.svg">
-    <img src="cards/implicit-clone.svg">
-    <img src="cards/topojson.svg">
+    <img src="cards/rustminded_xtask-wasm.svg">
+    <img src="cards/rustminded_xtask-watch.svg">
+    <img src="cards/GuillaumeGomez_sysinfo.svg">
+    <img src="cards/chronotope_chrono.svg">
+    <img src="cards/cargo_generate_cargo-generate.svg">
+    <img src="cards/rust-disk-partition-management_gptman.svg">
+    <img src="cards/rust-disk-partition-management_mbrman.svg">
+    <img src="cards/yewstack_implicit-clone.svg">
+    <img src="cards/geo_rust/topojson.svg">
 </div>

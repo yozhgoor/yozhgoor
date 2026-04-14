@@ -3,6 +3,7 @@ exclude = ["HTML", "CSS", "Makefile"]
 
 [repos]
 exclude = [
+    "cdoku",
     "crux-example",
     "dav",
     "dot-manager",
