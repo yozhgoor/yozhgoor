@@ -99,79 +99,79 @@ experimenting with WebAssembly, CLI tools, and APIs.
 <div id="featured" align="center">
   <a href="https://github.com/yozhgoor/cargo-temp">
     <img src="cards/cargo-temp.svg" alt="cargo-temp's card">
-  </a>
+  </a>&nbsp;
   <a href="https://github.com/yozhgoor/cargo-flow">
     <img src="cards/cargo-flow.svg" alt="cargo-flow's card">
-  </a>
+  </a>&nbsp;
   <a href="https://github.com/yozhgoor/readme-svg-stats">
     <img src="cards/readme-svg-stats.svg" alt="readme-svg-stats's card">
-  </a>
+  </a>&nbsp;
   <a href="https://github.com/yozhgoor/CreateProcessW">
     <img src="cards/CreateProcessW.svg" alt="CreateProcessW's card">
-  </a>
+  </a>&nbsp;
   <a href="https://github.com/yozhgoor/xtask-no-warnings">
     <img src="cards/xtask-no-warnings.svg" alt="xtask-no-warnings' card">
-  </a>
+  </a>&nbsp;
   <a href="https://github.com/yozhgoor/ratatui-auto-grid">
     <img src="cards/ratatui-auto-grid.svg" alt="ratatui-auto-grid's card">
-  </a>
+  </a>&nbsp;
 </div>
 
 <h3 align="center">OSS Contributions</h3>
 <div id="contributed" align="center">
   <a href="https://github.com/GuillaumeGomez/sysinfo">
     <img src="cards/GuillaumeGomez_sysinfo.svg" alt = "sysinfo's card">
-  </a>
+  </a>&nbsp;
   <a href="https://github.com/chronotope/chrono">
     <img src="cards/chronotope_chrono.svg" alt="chrono's card">
-  </a>
+  </a>&nbsp;
   <a href="https://github.com/cargo-generate/cargo-generate">
     <img src="cards/cargo-generate_cargo-generate.svg" alt="cargo-generate's card">
-  </a>
+  </a>&nbsp;
   <a href="https://github.com/georust/topojson">
     <img src="cards/georust_topojson.svg" alt="topojson's card">
-  </a>
+  </a>&nbsp;
   <a href="https://github.com/yewstack/implicit-clone">
     <img src="cards/yewstack_implicit-clone.svg" alt="implicit-clone's card">
-  </a>
+  </a>&nbsp;
   <a href="https://github.com/rustminded/xtask-wasm">
     <img src="cards/rustminded_xtask-wasm.svg" alt="xtask-wasm's card">
-  </a>
+  </a>&nbsp;
   <a href="https://github.com/rustminded/xtask-watch">
     <img src="cards/rustminded_xtask-watch.svg" alt="xtask-watch's card">
-  </a>
+  </a>&nbsp;
   <a href="https://github.com/rust-disk-partition-management/gptman">
     <img src="cards/rust-disk-partition-management_gptman.svg" alt="gptman's card">
-  </a>
+  </a>&nbsp;
   <a href="https://github.com/rust-disk-partition-management/mbrman">
     <img src="cards/rust-disk-partition-management_mbrman.svg" alt="mbrman's card">
-  </a>
+  </a>&nbsp;
   <a href="https://github.com/cecton/egui-minesweeper">
     <img src="cards/cecton_egui-minesweeper.svg" alt="egui-minesweeper's card">
-  </a>
+  </a>&nbsp;
   <a href="https://github.com/cecton/egui-screensaver-mystify">
     <img src="cards/cecton_egui-screensaver-mystify.svg" alt="egui-screensaver-mystify's card">
-  </a>
+  </a>&nbsp;
   <a href="https://github.com/cecton/egui-screensaver-fractal-clock">
     <img
       src="cards/cecton_egui-screensaver-fractal-clock.svg"
       alt="egui-screensaver-fractal-clock's card"
     />
-  </a>
+  </a>&nbsp;
 </div>
 
 <h3 align="center">Personal Projects</h3>
 <div id="perso" align="center">
   <a href="https://github.com/yozhgoor/nixos-config">
     <img src="cards/nixos-config.svg" alt="nixos-config's card">
-  </a>
+  </a>&nbsp;
   <a href="https://github.com/yozhgoor/autotrait2">
     <img src="cards/autotrait2.svg" alt="autotrait2's card">
-  </a>
+  </a>&nbsp;
   <a href="https://github.com/yozhgoor/yata">
     <img src="cards/yata.svg" alt="yata's card">
-  </a>
+  </a>&nbsp;
   <a href="https://github.com/yozhgoor/cdoku">
     <img src="cards/cdoku.svg" alt="cdoku's card">
-  </a>
+  </a>&nbsp;
 </div>
