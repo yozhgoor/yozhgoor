@@ -4,17 +4,16 @@ exclude = [
     "CSS",
     "Makefile",
     "Lua",
+    "Shell",
 ]
 
 [repos]
 exclude = [
-    "cdoku",
     "crux-example",
     "dav",
     "dot-manager",
     "dotfiles",
     "hello-bevy",
-    "todo",
     "yozhgoor",
     "yozhgoor.github.io"
 ]
