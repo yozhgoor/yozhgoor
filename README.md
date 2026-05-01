@@ -19,16 +19,18 @@
   /></a>
 </div>
 
-<p align="center">
-  I started my Rust journey in 2020 at <a href="https://github.com/rustminded">RustMinded</a>,
-  mentored by <a href="https://github.com/cecton">@cecton</a>. Since then, I've been exploring Rust
-  through OSS contributions and hands-on projects.
-</p>
+<div id="intro">
+  <p align="justify">
+    I started my Rust journey in 2020 at <a href="https://github.com/rustminded">RustMinded</a>,
+    mentored by <a href="https://github.com/cecton">@cecton</a>. Since then, I've been exploring Rust
+    through OSS contributions and hands-on projects.
+  </p>
 
-<p align="center">
-  I now build backend services, systems software, and developer tooling while regularly
-  experimenting with WebAssembly, CLI tools, and APIs.
-</p>
+  <p align="justify">
+    I now build backend services, systems software, and developer tooling while regularly
+    experimenting with WebAssembly, CLI tools, and APIs.
+  </p>
+</div>
 
 <h2 align="center">Languages and Technologies</h2>
 
