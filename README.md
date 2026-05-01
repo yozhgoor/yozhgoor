@@ -2,7 +2,7 @@
 
 <div id="badges" align="center">
   <a href="https://yozhgoor.github.io"><img
-    src="https://shields.io/badge/docs.rs-blue?style=for-the-badge&logo=ReadtheDocs&logoColor=white"
+    src="https://img.shields.io/badge/docs.rs-blue?style=for-the-badge&logo=ReadtheDocs&logoColor=white"
     alt="Portfolio badge"
   /></a>
   <a href="https://www.linkedin.com/in/yohan-boogaert-1a71a7230"><img
@@ -71,20 +71,6 @@ experimenting with WebAssembly, CLI tools, and APIs.
     width="40"
     height="40"
   /></a>&nbsp;
-  <a href="https://code.visualstudio.com/"><img
-    src="img/vscode.svg"
-    title="VS Code"
-    alt="VS Code icon"
-    width="40"
-    height="40"
-  /></a>&nbsp;
-  <a href="https://www.raspberrypi.org/"><img
-    src="img/raspberry-pi.svg"
-    title="Raspberry Pi"
-    alt="Raspberry Pi icon"
-    width="40"
-    height="40"
-  /></a>&nbsp;
   <a href="https://archlinux.org/"><img
     src="img/arch-linux.svg"
     title="Arch Linux"
@@ -114,14 +100,23 @@ experimenting with WebAssembly, CLI tools, and APIs.
   <a href="https://github.com/yozhgoor/cargo-temp">
     <img src="cards/cargo-temp.svg" alt="cargo-temp's card">
   </a>
+  <a href="https://github.com/yozhgoor/cargo-flow">
+    <img src="cards/cargo-flow.svg" alt="cargo-flow's card">
+  </a>
   <a href="https://github.com/yozhgoor/readme-svg-stats">
     <img src="cards/readme-svg-stats.svg" alt="readme-svg-stats's card">
+  </a>
+  <a href="https://github.com/yozhgoor/CreateProcessW">
+    <img src="cards/CreateProcessW.svg" alt="CreateProcessW's card">
   </a>
   <a href="https://github.com/yozhgoor/xtask-no-warnings">
     <img src="cards/xtask-no-warnings.svg" alt="xtask-no-warnings' card">
   </a>
-  <a href="https://github.com/yozhgoor/CreateProcessW">
-    <img src="cards/CreateProcessW.svg" alt="CreateProcessW's card">
+  <a href="https://github.com/yozhgoor/autotrait2">
+    <img src="cards/autotrait2.svg" alt="autotrait2's card">
+  </a>
+  <a href="https://github.com/yozhgoor/ratatui-auto-grid">
+    <img src="cards/ratatui-auto-grid.svg" alt="ratatui-auto-grid's card">
   </a>
 </div>
 
@@ -168,18 +163,15 @@ experimenting with WebAssembly, CLI tools, and APIs.
   </a>
 </div>
 
-<h3 align="center">Personal projects</h3>
+<h3 align="center">Personal Projects</h3>
 <div id="perso" align="center">
-  <a href="https://github.com/yozhgoor/cargo-flow">
-    <img src="cards/cargo-flow.svg" alt="cargo-flow's card">
-  </a>
   <a href="https://github.com/yozhgoor/nixos-config">
     <img src="cards/nixos-config.svg" alt="nixos-config's card">
   </a>
-  <a href="https://github.com/yozhgoor/autotrait2">
-    <img src="cards/autotrait2.svg" alt="autotrait2's card">
+  <a href="https://github.com/yozhgoor/yata">
+    <img src="cards/yata.svg" alt="yata's card">
   </a>
-  <a href="https://github.com/yozhgoor/ratatui-auto-grid">
-    <img src="cards/ratatui-auto-grid.svg" alt="ratatui-auto-grid's card">
+  <a href="https://github.com/yozhgoor/cdoku">
+    <img src="cards/cdoku.svg" alt="cdoku's card">
   </a>
 </div>
