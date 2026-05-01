@@ -2,7 +2,7 @@
 
 <div id="badges" align="center">
   <a href="https://yozhgoor.github.io"><img
-    src="https://img.shield.io/badge/Portfolio-blue?style=for-the-badge&logo=readthedocs&LogoColor=white"
+    src="https://shields.io/badge/docs.rs-blue?style=for-the-badge&logo=ReadtheDocs&logoColor=white"
     alt="Portfolio badge"
   /></a>
   <a href="https://www.linkedin.com/in/yohan-boogaert-1a71a7230"><img
