@@ -112,9 +112,6 @@ experimenting with WebAssembly, CLI tools, and APIs.
   <a href="https://github.com/yozhgoor/xtask-no-warnings">
     <img src="cards/xtask-no-warnings.svg" alt="xtask-no-warnings' card">
   </a>
-  <a href="https://github.com/yozhgoor/autotrait2">
-    <img src="cards/autotrait2.svg" alt="autotrait2's card">
-  </a>
   <a href="https://github.com/yozhgoor/ratatui-auto-grid">
     <img src="cards/ratatui-auto-grid.svg" alt="ratatui-auto-grid's card">
   </a>
@@ -167,6 +164,9 @@ experimenting with WebAssembly, CLI tools, and APIs.
 <div id="perso" align="center">
   <a href="https://github.com/yozhgoor/nixos-config">
     <img src="cards/nixos-config.svg" alt="nixos-config's card">
+  </a>
+  <a href="https://github.com/yozhgoor/autotrait2">
+    <img src="cards/autotrait2.svg" alt="autotrait2's card">
   </a>
   <a href="https://github.com/yozhgoor/yata">
     <img src="cards/yata.svg" alt="yata's card">
