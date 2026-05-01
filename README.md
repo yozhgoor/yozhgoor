@@ -36,6 +36,27 @@ experimenting with WebAssembly, CLI tools, and APIs.
     width="40"
     height="40"
   /></a>&nbsp;
+  <a href="https://www.python.org/"><img
+    src="img/python.svg"
+    title="Python"
+    alt="Python Programming Language icon"
+    width="40"
+    height="40"
+  /></a>&nbsp;
+  <a href="https://www.c-language.org/"><img
+    src="img/c.svg"
+    title="C"
+    alt="C Programming Language icon"
+    width="40"
+    height="40"
+  /></a>&nbsp;
+  <a href="https://www.typescriptlang.org/"><img
+    src="img/typescript.svg"
+    title="TypeScript"
+    alt="TypeScript Programming Language icon"
+    width="40"
+    height="40"
+  /></a>&nbsp;
   <a href="https://webassembly.org/"><img
     src="img/web-assembly.svg"
     title="WebAssembly"
