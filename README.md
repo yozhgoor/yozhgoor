@@ -17,6 +17,10 @@
     src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"
     alt="Resume badge"
   /></a>
+  <a href="https://bsky.app/profile/yozhgoor.bsky.social"><img
+    src="https://img.shields.io/badge/Bluesky-blue?style=for-the-badge&logo=Bluesky&logoColor=white"
+    alt="Bluesky badge"
+  /></a>
 </div>
 
 I started my Rust journey in 2020 at <a href="https://github.com/rustminded">RustMinded</a>,
