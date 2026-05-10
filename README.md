@@ -7,7 +7,7 @@
   /></a>
   <a href="https://yozhgoor.github.io"><img
     src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=ReadtheDocs&logoColor=white"
-    alt="Portfolio badge"
+    alt="Resume badge"
   /></a>
   <a href="https://www.linkedin.com/in/yohan-boogaert-1a71a7230"><img
     src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"
@@ -33,27 +33,6 @@ experimenting with WebAssembly, CLI tools, and APIs.
     src="img/rust.svg"
     title="Rust"
     alt="Rust Programming Language icon"
-    width="40"
-    height="40"
-  /></a>&nbsp;
-  <a href="https://www.python.org/"><img
-    src="img/python.svg"
-    title="Python"
-    alt="Python Programming Language icon"
-    width="40"
-    height="40"
-  /></a>&nbsp;
-  <a href="https://www.c-language.org/"><img
-    src="img/c.svg"
-    title="C"
-    alt="C Programming Language icon"
-    width="40"
-    height="40"
-  /></a>&nbsp;
-  <a href="https://www.typescriptlang.org/"><img
-    src="img/typescript.svg"
-    title="TypeScript"
-    alt="TypeScript Programming Language icon"
     width="40"
     height="40"
   /></a>&nbsp;
