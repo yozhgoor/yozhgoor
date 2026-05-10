@@ -1,25 +1,21 @@
 <h1 align="center">Yozhgoor</h1>
 
 <div id="badges" align="center">
+  <a href="https://bsky.app/profile/yozhgoor.bsky.social"><img
+    src="https://img.shields.io/badge/Bluesky-blue?style=for-the-badge&logo=Bluesky&logoColor=white"
+    alt="Bluesky badge"
+  /></a>
   <a href="https://yozhgoor.github.io"><img
-    src="https://img.shields.io/badge/docs.rs-blue?style=for-the-badge&logo=ReadtheDocs&logoColor=white"
+    src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=ReadtheDocs&logoColor=white"
     alt="Portfolio badge"
   /></a>
   <a href="https://www.linkedin.com/in/yohan-boogaert-1a71a7230"><img
-    src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
+    src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"
     alt="Linkedin badge"
   /></a>
   <a href="mailto:yohan.boogaert+recruit@protonmail.com"><img
     src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=maildotru&logoColor=white"
     alt="Email badge"
-  /></a>
-  <a href="https://yozhgoor.github.io/resume.pdf"><img
-    src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"
-    alt="Resume badge"
-  /></a>
-  <a href="https://bsky.app/profile/yozhgoor.bsky.social"><img
-    src="https://img.shields.io/badge/Bluesky-blue?style=for-the-badge&logo=Bluesky&logoColor=white"
-    alt="Bluesky badge"
   /></a>
 </div>
 
